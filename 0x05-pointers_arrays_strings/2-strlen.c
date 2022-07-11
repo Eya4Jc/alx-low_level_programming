@@ -5,7 +5,7 @@
  * 
  * Return: void that means ans is correct
  */
-int strln(char *s)
+int strlen(char *s)
 {
 int u;
 u = 0;
