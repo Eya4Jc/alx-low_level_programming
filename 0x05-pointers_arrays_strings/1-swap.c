@@ -1,5 +1,5 @@
 /**
- * swap_int: swaps the values of two intiger
+ * swap_int - swaps the values of two intiger
  * using two input parameter
  * @a: input parameter 1
  * @b: input parameter 2
