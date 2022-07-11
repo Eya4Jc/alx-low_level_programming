@@ -1,4 +1,4 @@
-#include<main.h>
+
 /**
  * _strln -length of a string
  * 0s: a pointer to an int that will be changed
@@ -8,7 +8,7 @@
 int strln(char *s);
 {
 int u;
-u=0;
+u = 0;
 while(s[u] != '/0')
 {
 u++
