@@ -5,11 +5,11 @@
  * 
  * Return: void that means ans is correct
  */
-int strln(char *s);
+int strln(char *s)
 {
 int u;
 u = 0;
-while(s[u] != '/0')
+while (s[u] != '/0')
 {
 u++
 }
