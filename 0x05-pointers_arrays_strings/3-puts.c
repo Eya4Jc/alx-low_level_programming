@@ -1,4 +1,4 @@
-
+#include "main.h"
 /**
  * _puts - write function print string
  * @str:input string
