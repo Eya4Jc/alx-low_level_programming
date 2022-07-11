@@ -1,3 +1,4 @@
+#include<main.h>
 /**
  * _strln -length of a string
  * 0s: a pointer to an int that will be changed
